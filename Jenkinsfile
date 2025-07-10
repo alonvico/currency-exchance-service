@@ -11,6 +11,12 @@ pipeline {
 
         }
 
+        stage ('Test') {
+
+        }
+
+        stage
+
     }
 
 }
