@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.in28minutes.microservices</groupId>
 	<artifactId>currency-exchange-service</artifactId>
-	<version>0.1.0-SNAPSHOT</version><!-- (kubernetes) 0.0.1-SNAPSHOT-->
+	<version>latest</version><!-- (kubernetes) 0.0.1-SNAPSHOT-->
 	<name>currency-exchange-service-kubernetes</name><!-- (kubernetes) currency-exchange-service-->
 	<description>Demo project for Spring Boot</description>
 	<url/>
